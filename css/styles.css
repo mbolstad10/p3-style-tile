@@ -4,6 +4,23 @@ h2, h3, p {
 }
 
 /* Layout for Style Tile*/
+
+h1, h3{
+	font-family: 'Raleway', sans-serif;
+}
+
+h2{
+	font-family: 'Shadows Into Light', cursive;
+	color: #66FFCC;
+}
+h3{
+	color:#FF6600;
+}
+p{
+	width: 400px;
+	font-family: 'Raleway', sans-serif;
+}
+
 section {
 	margin: 20px 0;
 }
@@ -21,6 +38,17 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	background: #66FFCC;
+}
+
+.color-2 {
+	background: #FF6600;
+}
+
+.color-3{
+	background: #FFFF33;
+}
 
 /* Show Grid */
 .showgrid {
